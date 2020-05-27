@@ -1,0 +1,12 @@
+{
+  "name": "demo-renovate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hckhanh/demo-renovate.git",
+  "author": "Khánh Hoàng <hoangchaukhanh93@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsrsasign": "8.0.12",
+    "react": "^15.0.0"
+  }
+}
