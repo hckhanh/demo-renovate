@@ -6,7 +6,7 @@
   "author": "Khánh Hoàng <hoangchaukhanh93@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jsrsasign": "8.0.12",
+    "jsrsasign": "8.0.16",
     "react": "^16.13.1"
   }
 }
